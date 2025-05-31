@@ -29,7 +29,7 @@ This project focuses on developing a low-cost, modular quadruped robot designed 
 - 四足步行機構
 - 模組化感測器接口
 - 開源硬體設計
-- 3D列印友善結構
+- 3D列印結構
 
 ### 軟體功能 | Software Features
 - 步態控制算法
